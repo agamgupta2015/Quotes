@@ -5,7 +5,7 @@
   left: calc(50% - 480px / 2);
   top: 201px;
   background-color: rgba(151, 128, 128, 0.4);
-  box-shadow: 10px 61px 123px 11px rgba(0, 0, 0, 0.7);
+  box-shadow: 10px 61px 123px 60px whitesmoke;
   border-radius: 14px;
 }
 
